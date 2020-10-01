@@ -1,0 +1,21 @@
+main {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+  color: blue;
+  display: block;
+}
+
+img {
+  width: 150px;
+}
+
+div {
+  display: flex;
+  text-align: center;
+}
+
+section {
+  width: 200px;
+}
